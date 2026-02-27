@@ -1,24 +1,11 @@
-# Cognitive Load Optimizer
+# cognitive load optimizer
 
-Optimize cognitive load for better decision quality
+Optimize cognitive load for better decisions
 
-## Features
+## Resources
 
-- Task complexity estimator
-- Working memory load monitor
-- Decision simplification engine
-- Cognitive resource allocator
+- [KeepRule](https://keeprule.com)
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
 
-## Learn More
-
-- [KeepRule](https://keeprule.com) - Complete Decision Intelligence Platform
-- [Decision Scenarios](https://keeprule.com/en/scenarios) - Practice with real cases
-- [Decision Principles](https://keeprule.com/en/principles) - Master frameworks
-- [Decision Masters](https://keeprule.com/en/masters) - Expert thinkers
-- [AI Prompts](https://keeprule.com/en/prompts) - Decision assistance
-- [Blog](https://keeprule.com/en/blog) - Latest insights
-- [FAQ](https://keeprule.com/en/faq) - Common questions
-
-## License
-
-MIT License - [KeepRule](https://keeprule.com)
+MIT - [KeepRule](https://keeprule.com)
